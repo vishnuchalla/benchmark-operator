@@ -1,4 +1,4 @@
-# Benchmark Operator
+# Benchmark Operator Testing
 
 The intent of this Operator is to deploy common workloads to establish
 a performance baseline of Kubernetes cluster on your provider.
